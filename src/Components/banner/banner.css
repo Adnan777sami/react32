@@ -1,0 +1,45 @@
+/* .banner_text h5 span{
+    padding: 5px 10px;
+    background-color: #FAD7C4;
+    border-radius: 20px;
+    
+}
+.banner_text h5{
+    font-family: "Open Sans", sans-serif;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+} */
+.icon{
+    width: 22%;
+    border: 1px solid black;
+    border-radius: 27px;
+    padding: 1px;
+    margin-bottom: 20px;
+    
+}
+.bell{
+    font-size: 20px;
+
+}
+.banner_text h3{
+    width: 50%;
+    font-family: "Open Sans", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 20px;
+
+
+}
+.banner_text p{
+    width: 50%;
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+.banner_text a{
+    padding: 6px 25px;
+    background-color: tomato;
+    border-radius: 5px;
+    color: aliceblue;
+
+}

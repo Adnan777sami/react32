@@ -1,0 +1,14 @@
+.about_inner{
+    background-color: #FAD0BC;
+    padding: 10px 20px 10px 80px;
+    position: relative;
+    border-radius: 10px;
+}
+.about_icon{
+    position: absolute;
+    left: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 30px;
+    
+}
